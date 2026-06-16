@@ -4,25 +4,25 @@
       "title": "ADrama",
       "description": "Проигрыватель для дорам",
       "url": "https://drive.google.com/uc?export=download&id=1Snr68t2F43TiyuAw1M6nkcqOcQ-bxClr",
-	  "ver": "LATEST"
+	  "ver": "LATEST",
       "mirror": "no",
-      "category": "Кино",
+      "category": "Кино"
     },
 	{
       "title": "NUM",
       "description": "Проигрыватель NUM",
       "url": "https://drive.google.com/uc?export=download&id=1lYabScShjk1AxRe8aS7NmemU2ycCFxgl",
-	  "ver": "1.0.150"
+	  "ver": "1.0.150",
       "mirror": "no",
-      "category": "Кино",
+      "category": "Кино"
     },
 	{
       "title": "Zona",
       "description": "Проигрыватель ZONA",
       "url": "https://drive.google.com/uc?export=download&id=1KpNQx8nnSLymWven_ekBZfSNiBxZRew8",
-	  "ver": "LATEST"
+	  "ver": "LATEST",
       "mirror": "no",
-      "category": "Кино",
+      "category": "Кино"
     }
   ]
 }
